@@ -10,7 +10,7 @@ packages = [{include = "agent-backend"}]
 python = ">=3.10,<3.13"
 
 autogen = { git = "https://github.com/rnadigital/autogen.git", tag = "v0.2.10" }
-fastapi = "^0.103.2"
+fastapi = "^0.109.1"
 uvicorn = "^0.23.2"
 python-dotenv = "^1.0.0"
 pymongo = "^4.5.0"
